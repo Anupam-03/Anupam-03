@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anupam Nandi</h1>
-<h3 align="center">I am Coding enthusiast</h3>
+<h3 align="center">I am Full-Stack-Blockchain Developer enthusiast</h3>
 <img align="right" width="350" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47obm0si5lrpsmrwznf2i0fxn2ntx4b9zr3ohma81i&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupam-03&label=Profile%20views&color=0e75b6&style=flat" alt="anupam-03" /> </p>
 
-- 🌱 I’m currently learning **Backend Development, React js and Js**
+- 🌱 I’m currently learning **Solidity and BlockChain Development**
 
-- 💬 Ask me about **Frontend Development, Java, C++ and Js**
+- 💬 Ask me about **JavaScript, Frontend Development, Backend Development, React js, TypeScript, Java and C++**
 
 - 📫 How to reach me **anupamnandi777@gmail.com**
 
