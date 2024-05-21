@@ -9,6 +9,8 @@
 - 💬 Ask me about **JavaScript, Frontend Development, Backend Development, React js, TypeScript, Java and C++**
 
 - 📫 How to reach me **anupamnandi777@gmail.com**
+- 📫 How to reach me: Follow me on these platforms! :<br> &nbsp;&nbsp;&nbsp; &#9733; Twitter : <a href="https://twitter.com/PriyanshuHalda5">@PriyanshuHalda5</a><br> &nbsp;&nbsp;&nbsp; &#9733; Linkedin : <a href="https://www.linkedin.com/in/priyanshu-haldar-61b2731aa/">@Priyanshuhaldar</a><br> &nbsp;&nbsp;&nbsp; &#9733; Github : <a href="https://github.com/priyanshuhaldar007">@priyanshuhaldar007</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
